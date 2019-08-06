@@ -4,3 +4,4 @@
 ### 如何参与开发
 [开发指南](https://github.com/OvOq/NES_system/blob/master/%E5%BC%80%E5%8F%91%E6%8C%87%E5%8D%97.md)
 ### 开发日志
+- 8.6: 项目划分,确定小组分工    
